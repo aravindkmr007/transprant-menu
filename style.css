@@ -1,0 +1,133 @@
+.bk
+{
+    background-size:cover;
+    z-index:88888;
+}
+
+h2 .t1
+{
+display:inline;
+color:pink;
+
+}
+
+
+.row
+{
+    
+    font-family: 'Roboto', sans-serif;
+    /*margin-right: -15px;
+    margin-left: -15px;
+    flex-wrap:wrap;*/
+}
+
+
+.section
+{
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    z-index: 99999;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+hero-img img {
+    border: 10px solid rgba(0, 0, 0, 0.4);
+    margin: 20px auto;
+    float: none;
+    text-align: center;
+   
+    
+}
+
+ul .align
+{
+    justify-content: end;
+}
+
+
+.bg-white
+{
+    background-color:#f9f9f9;
+}
+
+.mh-about-tag ul li {
+    margin: 0px 6px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 4px 0px;
+    display: inline-block;
+   
+}
+
+ul li
+{
+ list-style-type: none;
+}
+
+#mh-about .mh-about-inner h2
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.mh-about-tag ul li span 
+{
+    border: 1px solid #0bceaf;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+button .download
+{
+    background-color:#0bceaf;
+    color:white;
+    border-radius: 50%;
+}
+
+div .percentage
+{
+    background-color: #0bceaf;
+}
+
+div .partition
+{
+    width:50%;
+}
+
+table .trow1
+{
+font-family: Georgia;
+font-size:20px;
+color:pink;
+}
+
+/*
+
+
+#text6
+{
+
+        width: 100%;
+        height: 200px;
+        background-color:#343a40;
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 800px;
+        transition: width 2s, height 4s;
+
+}
+
+#text6:hover
+{
+width:683px;
+height:600px;
+}
+
+*/
